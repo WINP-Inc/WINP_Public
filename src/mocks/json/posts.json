@@ -1,0 +1,103 @@
+[
+  {
+    "id": "1",
+    "title": "Lorem ipsum dolor sit amet consectetur. Magna lectus adipiscing lorem massa elit sed tincidunt. Ullamcorper quis tortor accumsan in posuere. Proin vehicula integer aliquet ut viverra non.",
+    "user": {
+      "id": "user1",
+      "fullName": "metaUser1",
+      "username": "Azuki lover",
+      "image": "/icons/ellipse-21.svg"
+    },
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/rectangle-44.svg",
+        "duration": 30,
+        "size": 262144,
+        "width": 512,
+        "height": 512,
+        "thumbnail": ""
+      },
+      {
+        "type": "image",
+        "url": "/images/rectangle-45.svg",
+        "duration": 30,
+        "size": 262144,
+        "width": 512,
+        "height": 512,
+        "thumbnail": ""
+      },
+      {
+        "type": "image",
+        "url": "/images/rectangle-46.svg",
+        "duration": 30,
+        "size": 262144,
+        "width": 512,
+        "height": 512,
+        "thumbnail": ""
+      },
+      {
+        "type": "image",
+        "url": "/images/rectangle-48.svg",
+        "duration": 30,
+        "size": 262144,
+        "width": 512,
+        "height": 512,
+        "thumbnail": ""
+      }
+    ],
+    "likesCount": 32,
+    "commentsCount": 22,
+    "tags": [],
+    "comments": [],
+    "likes": [],
+    "createdAt": "20 June, 2023 • 12:23 PM",
+    "updatedAt": ""
+  },
+  {
+    "id": "2",
+    "title": "Lorem ipsum dolor sit amet consectetur. Magna lectus adipiscing lorem massa elit sed tincidunt. Ullamcorper quis tortor accumsan in posuere. Proin vehicula integer aliquet ut viverra non.",
+    "user": {
+      "id": "user1",
+      "fullName": "metaUser1",
+      "username": "Azuki lover",
+      "image": "/icons/ellipse-21.svg"
+    },
+    "media": [],
+    "likesCount": 32,
+    "commentsCount": 22,
+    "tags": [],
+    "comments": [],
+    "likes": [],
+    "createdAt": "20 June, 2023 • 12:23 PM",
+    "updatedAt": ""
+  },
+  {
+    "id": "3",
+    "title": "Lorem ipsum dolor sit amet consectetur. Magna lectus adipiscing lorem massa elit sed tincidunt. Ullamcorper quis tortor accumsan in posuere. Proin vehicula integer aliquet ut viverra non.",
+    "user": {
+      "id": "user1",
+      "fullName": "metaUser1",
+      "username": "Azuki lover",
+      "image": "/icons/ellipse-21.svg"
+    },
+    "media": [
+      {
+        "type": "video",
+        "url": "/video/sample-video.mov",
+        "duration": 30,
+        "size": 262144,
+        "width": 512,
+        "height": 512,
+        "thumbnail": ""
+      }
+    ],
+    "likesCount": 32,
+    "commentsCount": 22,
+    "tags": [],
+    "comments": [],
+    "likes": [],
+    "createdAt": "20 June, 2023 • 12:23 PM",
+    "updatedAt": ""
+  }
+]

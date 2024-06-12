@@ -1,0 +1,23 @@
+<svg width="190" height="190" viewBox="0 0 190 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 163004">
+<g id="Rectangle 828164" filter="url(#filter0_dd_1727_7922)">
+<rect x="27" y="5" width="136" height="136" rx="20" fill="#302A43"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd_1727_7922" x="0" y="0" width="190" height="190" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2.75474"/>
+<feGaussianBlur stdDeviation="1.69041"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1727_7922"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="22"/>
+<feGaussianBlur stdDeviation="13.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.025 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_1727_7922" result="effect2_dropShadow_1727_7922"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_1727_7922" result="shape"/>
+</filter>
+</defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Wall" clip-path="url(#clip0_328_10257)">
+<path id="Vector" d="M14 11.375V6.125" stroke="#8043F9" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M8.75 16.625V11.375" stroke="#8043F9" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M19.25 16.625V11.375" stroke="#8043F9" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M14 21.875V16.625" stroke="#8043F9" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M3.5 11.375H24.5" stroke="#8043F9" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M3.5 16.625H24.5" stroke="#8043F9" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_7" d="M24.5 6.125H3.5V21.875H24.5V6.125Z" stroke="#8043F9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_328_10257">
+<rect width="28" height="28" fill="white"/>
+</clipPath>
+</defs>
+</svg>
